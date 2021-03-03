@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "666064174158",
+    "project_id": "wallet-invest",
+    "storage_bucket": "wallet-invest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666064174158:android:93bb93fa582b4dff02171f",
+        "android_client_info": {
+          "package_name": "com.walletinvest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666064174158-fb45n9rk5cm194t71pct3mvb9c1o4psg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.walletinvest",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "666064174158-2488nc883ululolldjva96liaibghs52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmPy-abNQzA_8iU-h9ftOAUNKqTrE1jFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666064174158-2488nc883ululolldjva96liaibghs52.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666064174158-rn0fdgsobjl6qn72svvrp0o1c0573fg7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.walletinvest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
